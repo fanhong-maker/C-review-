@@ -11,9 +11,9 @@ int main()
         printf("输出字符串为：%s\n",a);
         putchar(ch);
         putchar('\n');
-        scanf("输入字符串：%s",&b);
+        scanf("%s",&b);
         printf(b);
         a3 = a1/a2;     //整型变量和整型变量相除得到的依然是整型变量
         printf("a1/a2 = %d",a3);
-        printf("b1/b2 = %f",b1/b2);     //浮点型和整形得到浮点型
+        printf("b1/b2 = %f",b1/b2);     //浮点型和整形得到浮点型（双精度）
 }
