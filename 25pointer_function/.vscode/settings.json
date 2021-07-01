@@ -1,0 +1,6 @@
+{
+        "python.pythonPath": "D:\\anaconda\\envs\\tf2g\\python.exe",
+        "files.associations": {
+                "stdio.h": "c"
+        }
+}
